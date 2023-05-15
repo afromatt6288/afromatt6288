@@ -80,76 +80,70 @@ React app with JSON db  that displays information about Studio Ghibli films, cha
 ## EXPERIENCE 
 (Highlights) - Full CV available on request
 ### City of Aurora: Library and Cultural Services								       
-08/2021 - Present | Denver, CO
-Stage Instructor 									          	          
+Stage Instructor (August 2021 · Present) · Denver, CO						          	          
 - Teach theater classes to underprivileged youth, including combat styles, accents, and physical presentation.
 - Facilitate group interactions, role playing, safety, and development of social skills.
 - Develop in-depth training to assist with different types of learning behaviors.
 
 ### Self-Employed												       
-05/1999 - Present | Denver, CO
-- Ballroom Dance and Stage Combat Instructor and performer 					         
+Ballroom Dance and Stage Combat Instructor and performer (May 1999 · Present) · Denver, CO						         
 - Provide dance and stage combat instruction for various High Schools, weddings, etc.
 - Work with youth on solo and partnered stage choreography on a recurring basis.
 
 ### CSAA Insurance Group  	
-01/2022 - 01/2023 | Denver, CO
-Licensed Service Agent 	       
+Licensed Service Agent (January 2022 · January 2022) · Denver, CO      
 - Licensed in California and Colorado for Property and Casualty Insurance. 
 - Service existing Auto and Home Insurance Policies. 
 - Handle customer inquiries, billing issues, and sales leads.
 - Assist and support the team during high-volume escalations.
 
 ### Medical Sabbatical								        
-2018 - 2020 | Denver, CO and then Osaka,Japan
-International Cancer Treatment 										      
+International Cancer Treatment (2018-2020) · Denver, CO and then Osaka,Japan									      
 - Work suspended due to Stage 4 Terminal Cancer diagnosis
 - Out of country for treatment from Mar 2019 – Dec 2019
 - In full remission
 
 ### Allied Universal Security Services									       
-07/2016 - 04/2017 | Denver, CO
-Security Officer 											         
+Security Officer (July 2016 · April 2017) · Denver,CO								         
 - Worked flexibly at 20+ job sites, troubleshooting site issues
 - Provided customer service, access control, reception, patrol, safety facilitation, surveillance, and policy enforcement
 
 ### Landmark												       
- 09/2014 - 09/2015 | Denver, CO
-- Production Assistant and Supervisor 								        
+Production Assistant and Supervisor (September 2014 - September 2015) · Denver, CO 								        
 - Participated in a program for self-improvement, continuing education, communication skills, self-empowerment, discipline, self and career growth
 
 ### Randy’s All-American Grill										      
-04/2013 - 08/2013 | Greeley, CO
-Manager, Bartender, Server 									         
+Manager, Bartender, Server (April 2013 · August 2013 · Greeley,CO								         
 - Conducted staff scheduling, sales, inventory, customer service, and food handling
 
 ### 35 Strangers Non-Profit Animal Rescue								      
-08/2012 - 08/2013 | Greeley, CO
-Rescuer 											         
+Rescuer (August 2012 · August 2013) · Greeley, CO										         
 - Conducted non-domesticated cat rescue, rehabilitation, and home placement services
 
 ### Colorado State University Police Dept.								
-12/2003 - 06/2012 | Fort Collins, CO
-Public Safety Officer - Emergency Dispatcher - Police Officer
-- Conducted conflict resolution, de-escalation, customer service, safety tactics, communication, crisis intervention, multitasking, and rapid emergency-related decision making
+Public Safety Officer · Emergency Dispatcher · Police Officer (December 2003 · June 2012) · Fort Collins, CO	
+- Demonstrated expertise in conflict resolution, de-escalation, and crisis intervention to effectively manage high-pressure situations and ensure the safety of individuals.
+- Utilized strong customer service skills to address concerns, provide assistance, and maintain positive relationships with community members.
+- Exhibited exceptional multitasking abilities and rapid decision-making skills in emergency situations, facilitating timely and effective responses to mitigate risks and resolve critical incidents.
 
 ### Poudre Valley Hospital											
-07/2005 - 10/2006 | Fort Collins, CO
-Emergency Medical Technician (EMT) 								         
+Emergency Medical Technician (July 2005 - October 2006) · Fort Collins, CO 								         
 - Conducted emergency medical care and assistance as an EMT
 
 ## EDUCATION
-### Flatiron School 	
-01/2023 - 05/2023 | Denver, CO
-Full Stack Web Dev: Python(Flask), JavaScript(React), SQL (SQLite3, SQLAlchemy), HTML, CSS 	
+### Flatiron School · Software Engineering Certificate
+(January 2023 · May 2023) · Denver, Colorado
 
-### Metropolitan State University of Denver 	
-08/2017 - 09/2019| Denver, CO
-Bachelors in Theater. Dance Minor.	
+### Metropolitan State University of Denver · Bachelors in Theater · Dance Minor 
+(August 2017 · September 2019) · Denver, Colorado
 
-### Colorado State University 	
-08/1999 - 05/2007 | Fort Collins, CO
-Studies in Mechanical Engineering, Theater, Music Education, and Dance.	
+### Colorado State University · Studies in Mechanical Engineering, Theater, Music Education, and Dance.
+(August 1999 · May 2007) · Fort Collins, Colorado
+
+
+
+
+
 
 <!--
 **afromatt6288/afromatt6288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
