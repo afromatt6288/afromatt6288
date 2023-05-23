@@ -28,7 +28,7 @@
 
 ### Databases
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-<img src="./sqlalchemy.png" width=75px>
+<img src="./sqlalchemy.jpg" width=70px>
 
 ### Hosting
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
