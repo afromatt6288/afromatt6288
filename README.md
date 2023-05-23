@@ -28,7 +28,7 @@
 
 ### Databases
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLAlchemy]()
+![SQLAlchemy](https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/image_view_fullscreen)
 
 ### Hosting
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
